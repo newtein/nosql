@@ -1,0 +1,56 @@
+MongoDB	mongodb,mongodb-query
+Cassandra	cassandra
+Redis	redis
+HBase	hbase
+Oracle NoSQL	oracle-nosql
+DBM	dbm
+Couchbase	 Couchbase
+Dynamo	amazon-dynamodb
+Neo4J	Neo4J
+OrientDB	OrientDB
+HDFS	hdfs
+Hadoop	hadoop
+Hadoop 2	hadoop2
+Hadoop3	hadoop3
+Accumulo	Accumulo
+Druid	Druid
+Vertica	Vertica
+Apache CouchDB	couchdb
+ArangoDB	ArangoDB
+BaseX	BaseX
+Cosmos DB	azure-cosmosdb
+MarkLogic	MarkLogic
+RethinkDB	RethinkDB
+Aerospike	Aerospike
+ArangoDB	ArangoDB
+MemcacheDB	MemcacheDB
+MUMPS	MUMPS
+Riak	riak
+Berkeley DB	berkeley-db
+AllegroGraph	AllegroGraph
+Virtuoso	Virtuoso
+VoltDB	voltdb
+‎CockroachDB	‎cockroachdb
+NuoDB	NuoDB
+Hana	hana
+MemSQL	memsql
+Python	pymongo, mongoengine
+PHP	mongodb-php
+Java	mongodb-java, mongo-java,mongo-java-driver
+JS	mongojs
+.NET	mongodb-.net-driver
+Ruby	mongoid,mongomapper
+Node	node-mongodb-native,mongoskin
+C++	mongo-cxx-driver
+C#	mongodb-csharp-2.0
+C2.0	cassandra-2.0
+C3.0	cassandra-3.0
+C0.7	cassandra-0.7
+C2.1	cassandra-2.1
+C2.2	cassandra-2.2
+Spark	spark-cassandra-connector
+C-JDBC	cassandra-jdbc
+.NET library	fluentcassandra
+Python driver	cassandra-python-driver
+Node driver	cassandra-node-driver
+C# driver	cassandra-sharp

@@ -1,0 +1,10 @@
+MongoDB	mongodb,mongodb-query
+Cassandra	cassandra
+Redis	redis
+HBase	hbase
+Oracle NoSQL	oracle-nosql
+DBM	dbm
+ Couchbase	 Couchbase
+Dynamo	amazon-dynamodb
+Neo4J	Neo4J
+OrientDB	OrientDB
