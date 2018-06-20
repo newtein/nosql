@@ -1,4 +1,8 @@
 # Empirical Investigation of Trends in NoSQL-based Big-data Solutions in the Last Decade
+
+Published web-page is available <a href="https://newtein.github.io/nosql/" target="_blank"> here.</a>
+
+Published in IEEE: 11th International Conference on Contemporary Computing-IC3 (in-press) as a Poster.
 ## Research Abstract
 The usage and popularity of NoSQL databases have sharply risen over the past decade due to their ability to handle a huge amount of data by employing scalable architecture, schema-less structure, high availability and better performance than traditional relational database systems (RDBMS). Currently, there exist more than 225 NoSQL databases. In this paper, we aim to study variation in yearly trends of 20 NoSQL databases from the perspective of programmers of widely-used community-based Q&A website Stack Overflow. To reveal the interest of the programmers we have investigated questions-asked and presented an unbiased Normal Interest Score by employing three parameters, first, the number of questions asked, second, mean views on a question and third, the mean score on a question. MongoDB, Cassandra, Redis, and Neo4j emerged as most popular databases in their respective families while Normal Interest Score of all four of them is decreasing 2015 onwards. For the first time in a decade, the number of questions asked related to Cassandra decreased in the year 2017. Additionally, we have also discussed how real-world events like publications, open-sourcing, mention in controversial bills, version-release, acquiring ventures etc affect the interest corresponding to NoSQL databases over Stack Overflow.
 
@@ -7,14 +11,17 @@ The usage and popularity of NoSQL databases have sharply risen over the past dec
 <img src="https://raw.githubusercontent.com/newtein/nosql/master/image/method.JPG"/>
 
 ## Column NoSQL Family
-
 <img src="https://raw.githubusercontent.com/newtein/nosql/master/image/c1.JPG"/>
+
 ## Key-Value NoSQL Family
 <img src="https://raw.githubusercontent.com/newtein/nosql/master/image/k1.JPG"/>
+
 ## Document NoSQL Family
 <img src="https://raw.githubusercontent.com/newtein/nosql/master/image/d1.JPG"/>
+
 ## Graph NoSQL Family
 <img src="https://raw.githubusercontent.com/newtein/nosql/master/image/g1.JPG"/>
+
 
 ## Interfamily Comparison 
 <img src="https://raw.githubusercontent.com/newtein/nosql/master/image/comp.png">
